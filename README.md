@@ -1,7 +1,7 @@
 # CACLD Web Development Training
 
 Course material of CACLD Web Development Training
-
+Register for the course here: http://www.cacld.co.in
 ## Module 1 : Getting Started with HTML- 8 hrs
 
 * Web 2.0, web 3.0, Domain Name and Domain Name Server
