@@ -1,2 +1,2 @@
-# web-development-training
+# Web Development Training
 Course material of CACLD Web Development Training
